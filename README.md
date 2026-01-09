@@ -1,5 +1,7 @@
 # Claude FlowFrame
 
+[![Follow on X](https://img.shields.io/twitter/follow/FrankBria18044?style=social)](https://x.com/FrankBria18044)
+
 **Minimal agentic orchestration framework for Claude Code workflows**
 
 Claude FlowFrame is a lightweight, focused tool that provides just the essential orchestration capabilities needed for automated AI workflows. Unlike full-featured platforms, FlowFrame does only what's necessary: memory management, swarm coordination, and lifecycle hooks.
